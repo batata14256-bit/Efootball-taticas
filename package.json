@@ -1,0 +1,19 @@
+{
+  "name": "efootball-taticas",
+  "version": "1.0.0",
+  "description": "Site para gerar táticas de eFootball com IA",
+  "main": "api/generate-tactic.js",
+  "scripts": {
+    "start": "node api/generate-tactic.js",
+    "dev": "vercel dev"
+  },
+  "keywords": [
+    "efootball",
+    "tactics",
+    "ai",
+    "football"
+  ],
+  "author": "batata14256-bit",
+  "license": "MIT",
+  "dependencies": {}
+}
